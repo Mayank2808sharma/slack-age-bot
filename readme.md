@@ -29,7 +29,8 @@ Follow the steps below to get started:
 ### Usage
 ```bash
 @age-bot my dob is <DOB>
-
+```
+```bash
 @age-bot <DOB>
 ```
 The above cmds you can use in your slack channel to interact with the bot
