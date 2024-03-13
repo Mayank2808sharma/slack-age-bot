@@ -2,6 +2,8 @@
 
 `slack-age-bot` is a slack bot based on `GO` that calculates user age.
 
+## Youtube video : [↗️](https://youtu.be/tS9o--nEVT0)
+
 ### Getting Started
 
 Follow the steps below to get started:
